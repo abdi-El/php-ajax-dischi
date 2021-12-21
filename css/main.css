@@ -1,0 +1,45 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* general */
+body {
+  height: 100vh;
+  background-color: #182d3d;
+}
+/* header */
+header {
+  height: 80px;
+  padding: 20px;
+  background-color: #132431;
+}
+.logo-container {
+  height: 100%;
+  width: 60%;
+  margin: 0 auto;
+}
+.logo-container img {
+  height: 100%;
+}
+/* main */
+main .container {
+  width: 50%;
+}
+.my-card {
+  color: white;
+  background-color: black;
+  width: 80%;
+  margin: 10px 0px;
+  padding: 15px 0px;
+}
+.my-card img {
+  width: 60%;
+}
+.description h6 {
+  margin: 5px 0px;
+}
+.description span {
+  font-size: 13px;
+}
